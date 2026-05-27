@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=loppesz&color=blueviolet&style=for-the-badge)
+
 <!-- Greeting -->
 # Bem Vindo! :wave::smiley:
 
