@@ -1,5 +1,5 @@
 <!-- Greeting -->
-# Hey there! :wave::smiley:
+# Bem Vindo! :wave::smiley:
 
 <!--Introduction -->
 👋 Olá! Me chamo Paulo Victor, tenho 21 anos e sou apaixonado por tecnologia desde pequeno. Sempre fui aquele cara curioso que gostava de mexer, testar, desmontar e entender como as coisas funcionam.
@@ -51,27 +51,11 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 </p>
 
-<h4 align="center"> Obrigado pela Visita!:innocent:</h4>
-
-<!-- Credit -->
-### Creditos á
-- [**GIPHY**](https://giphy.com/) for GIFs. 
+<h4 align="center"> Obrigado pela Visita!</h4>
 
 
 
-<!--
-**JoykishanSharma/JoykishanSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ⭐️ From [Paulo Victor](https://github.com/loppesz/)
