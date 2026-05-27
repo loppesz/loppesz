@@ -6,9 +6,9 @@
 
 Hoje continuo seguindo essa mesma essência: aprender constantemente, resolver problemas e tentar ajudar outras pessoas através da tecnologia. Gosto de desafios, programação, desenvolvimento de sistemas e tudo que envolve criar soluções úteis e funcionais.
 
-Acredito que a tecnologia vai muito além de códigos — ela é uma ferramenta capaz de facilitar vidas, conectar pessoas e transformar ideias em realidade.:pray:.
+Acredito que a tecnologia vai muito além de códigos — ela é uma ferramenta capaz de facilitar vidas, conectar pessoas e transformar ideias em realidade.
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-PauloVictor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-victor-lopes-118637352/)
