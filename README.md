@@ -21,7 +21,6 @@ Acredito que a tecnologia vai muito além de códigos — ela é uma ferramenta 
 
 
 <!-- Working GIF -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
 
 
 
@@ -36,8 +35,7 @@ Acredito que a tecnologia vai muito além de códigos — ela é uma ferramenta 
 <code><a href = "https://www.json.org/json-en.html"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></a></code>
 <code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code>
 <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C Language"></code>
-<code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
+
 
 </p>
 
